@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Bharath Vishal
+My name is Bharath Vishal
 
 - 🔭 I’m currently working on native Android apps
 
