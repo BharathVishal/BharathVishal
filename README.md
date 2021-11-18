@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on native Android apps
-- 💬 Ask me about Android, Android app and game development
 
 [![Bharath's GitHub stats](https://github-readme-stats.vercel.app/api?username=BharathVishal)](https://github.com/anuraghazra/github-readme-stats)
 
