@@ -1,12 +1,9 @@
 ### Hi there 👋
 
-My name is Bharath Vishal
-
 - 🔭 I’m currently working on native Android apps
 
 [![Bharath's GitHub stats](https://github-readme-stats.vercel.app/api?username=BharathVishal)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BharathVishal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **BharathVishal/BharathVishal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
