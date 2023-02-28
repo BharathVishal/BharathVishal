@@ -1,7 +1,7 @@
 ### Hi 👋
 
 
-![Bharath Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=BharathVishal)
+<!--![Bharath Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=BharathVishal)-->
 
 
 <!--
